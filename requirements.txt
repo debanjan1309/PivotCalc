@@ -1,4 +1,4 @@
 Flask==3.0.0
-pandas==2.2.3
+pandas==2.2.0
 nselib==1.5
-gunicorn==23.0.0
+gunicorn==21.2.0
